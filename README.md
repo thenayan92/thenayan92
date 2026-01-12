@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nayan Mondal</h1>
 <h3 align="center">Cloud Engineer | Linux Enthusiast Building scalable, reliable, and automated cloud systems</h3>
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmttOHB4aTNsMzRxN3FxN2ZmNDcwNGxhYjlsbDY4NjA1ZXlremNhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/az2ikfu1lC8ja62nb9/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thenayan92&label=Profile%20views&color=0e75b6&style=flat" alt="thenayan92" /> </p>
 
